@@ -3,5 +3,6 @@
     <element label="Sourcecontroldemo" max_length="40" name="x_37290_sourcecont_sourcecontroldemo" type="collection">
         <element label="Application Name" max_length="40" name="application_name" type="string"/>
         <element label="Number" max_length="40" name="number" type="integer"/>
+        <element label="Version" max_length="40" name="version" type="integer"/>
     </element>
 </database>
