@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a240d087db401300395fd360cf96196e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_37290_sourcecont_sourcecontroldemo">
+    <x_37290_sourcecont_sourcecontroldemo action="INSERT_OR_UPDATE">
+        <application_name>New Record</application_name>
+        <field_1>abc</field_1>
+        <field_2>Updated Data</field_2>
+        <number>4</number>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 07:18:21</sys_created_on>
+        <sys_id>a240d087db401300395fd360cf96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 07:18:21</sys_updated_on>
+        <version>0</version>
+    </x_37290_sourcecont_sourcecontroldemo>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 07:18:41</sys_created_on>
+        <sys_id>517098c3db001300395fd360cf9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4</sys_name>
+        <sys_package display_value="SourceControlDemo" source="x_37290_sourcecont">8e5b3912db001300395fd360cf9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SourceControlDemo">8e5b3912db001300395fd360cf9619a3</sys_scope>
+        <sys_update_name>sys_metadata_link_517098c3db001300395fd360cf9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 07:18:41</sys_updated_on>
+        <tablename>x_37290_sourcecont_sourcecontroldemo</tablename>
+    </sys_metadata_link>
+</record_update>
