@@ -8,14 +8,14 @@
     <x_37290_sourcecont_sourcecontroldemo action="INSERT_OR_UPDATE">
         <application_name>xyz</application_name>
         <field_1>test</field_1>
-        <field_2>test1</field_2>
+        <field_2>test 1 updated data</field_2>
         <number>1</number>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-05 08:33:02</sys_created_on>
         <sys_id>8d3e825edb401300395fd360cf9619e6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-05 08:33:02</sys_updated_on>
+        <sys_updated_on>2018-02-07 07:14:48</sys_updated_on>
         <version>1</version>
     </x_37290_sourcecont_sourcecontroldemo>
 </record_update>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-05 08:33:58</sys_created_on>
         <sys_id>3c8e4a9adb401300395fd360cf96193b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>1</sys_name>
         <sys_package display_value="SourceControlDemo" source="x_37290_sourcecont">8e5b3912db001300395fd360cf9619a3</sys_package>
         <sys_policy/>
         <sys_scope display_value="SourceControlDemo">8e5b3912db001300395fd360cf9619a3</sys_scope>
         <sys_update_name>sys_metadata_link_3c8e4a9adb401300395fd360cf96193b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-05 08:33:58</sys_updated_on>
+        <sys_updated_on>2018-02-07 07:15:02</sys_updated_on>
         <tablename>x_37290_sourcecont_sourcecontroldemo</tablename>
     </sys_metadata_link>
 </record_update>
